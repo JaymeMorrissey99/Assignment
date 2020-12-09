@@ -58,10 +58,11 @@ public class shoppingBasketGUI extends JFrame{
 		p1.add(quan);
 		
 		p2.add(calculate);
-		p2.add(vBasket);
 		p2.add(addB);
+		p2.add(vBasket);
 		p1.add(p2);
 		add(p1);
+	
 		
 	}
 	
